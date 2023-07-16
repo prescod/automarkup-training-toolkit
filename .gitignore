@@ -1,0 +1,4 @@
+out
+examples
+.envrc
+*.pyc

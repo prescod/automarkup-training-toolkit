@@ -1,14 +1,11 @@
 # automarkup-training-toolkit
 
-[![PyPI - Version](https://img.shields.io/pypi/v/automarkup-training-toolkit.svg)](https://pypi.org/project/automarkup-training-toolkit)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/automarkup-training-toolkit.svg)](https://pypi.org/project/automarkup-training-toolkit)
-
------
 
 **Table of Contents**
 
-- [Installation](#installation)
-- [License](#license)
+- [automarkup-training-toolkit](#automarkup-training-toolkit)
+  - [Installation](#installation)
+  - [License](#license)
 
 ## Installation
 
